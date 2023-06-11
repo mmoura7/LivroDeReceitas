@@ -1,0 +1,16 @@
+.main {
+    margin: auto;
+    width: 80%;
+  }
+  
+  .item {
+    display: none;
+  }
+  
+  .item.active {
+    display: block;
+  }
+
+  img {
+    width: 400px;
+  }
